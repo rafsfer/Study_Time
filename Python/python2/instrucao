@@ -1,0 +1,8 @@
+'''plt.show() verifica se foi feito a importação
+
+random = escolhe valores aleatorios
+
+importando funçoes especificas de uma biblioteca:
+from nome_biblioteca import metodo
+posso importar mais de um metodo:
+from nome_biblioteca import met_1, met_2'''
